@@ -1,0 +1,10 @@
+[
+    {  "name" : "Bhavesh Bhatkudav" , "email" : "bhatkudavbhavesh@gmail.com" ,"city" : "Shirdi" , "role" : "developer" },
+    {  "name" : "Sudhir Patil" , "email" : "sudhirpatil@gmail.com" ,"city" : "Kolhapur" , "role" : "Manager" },
+    {  "name" : "Siddhesh Sonawane" , "email" : "siddhes@gmail.com" ,"city" : "Lasalgaon" , "role" : "assistant" },
+    {  "name" : "Vansh Badjate" , "email" : "vansh@gmail.com" ,"city" : "Kopargaon" , "role" : "QA Tester" },
+    {  "name" : "Shreysh Chudiwal" , "email" : "Shreyash@gmail.com" ,"city" : "Hydrabad" , "role" : "Consultant" },
+    {  "name" : "Om Jejurkar" , "email" : "omj@gmail.com" ,"city" : "Rahata" , "role" : "Anchor" },
+    {  "name" : "Om Bhansali" , "email" : "om@gmail.com" ,"city" : "Bengluru" , "role" : "Host" },
+    {  "name" : "Rohit Shinde" , "email" : "rohit123@gmail.com" ,"city" : "Vaijapur" , "role" : "Jr Developer" }
+]

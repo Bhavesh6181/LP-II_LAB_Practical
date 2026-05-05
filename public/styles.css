@@ -1,0 +1,41 @@
+header {
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: orangered;
+}
+
+    header h1 {
+        margin: 0;
+        text-align: center;
+        margin: 30px auto;
+        padding: 25px;
+    }
+
+    .container {
+        width: 800px;
+        margin: 30px auto;
+        padding: 25px;
+        background-color: #ddd;
+        color: black;
+        border-radius: 8px;
+    }
+
+    table {
+        width: 800px;
+        padding: 25px;
+        margin: 30px auto;
+        text-align: left;
+        border-collapse: collapse;
+    }
+
+    th {
+        background-color: violet;
+        padding: 20px;
+    }
+
+    tr {
+        padding: 20px;
+        border: 1px solid #f9f9f9;
+    }
+
+    
